@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Dropbox\My-Dir\Java\IntroductionApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Dropbox\My-Dir\Java\IntroductionApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c6bfd4f71af9a9ad591790e85454b2d6909b4e3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Dropbox\My-Dir\Java\IntroductionApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ee371943a1f8df62eb469a8ed2d7015f010216b">
+        <dex dex="C:\Dropbox\My-Dir\Java\IntroductionApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7b2064d5c0ade94189e578fb4ff7b8e468faa765\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Dropbox\My-Dir\Java\IntroductionApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="168e42e3c8c01487f8aed257a8070e3d6f475ec5">
+        <dex dex="C:\Dropbox\My-Dir\Java\IntroductionApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7b2064d5c0ade94189e578fb4ff7b8e468faa765\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Itai\.android\build-cache\5344a410fb12811de17f854db2cdb9f2e767b2fa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d9f58e509a3ff5b601c11ab5ec588c96f9eb82b2">
+        <dex dex="C:\Dropbox\My-Dir\Java\IntroductionApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_51700eb348aba2516550b077fa374515e5dc8966\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Dropbox\My-Dir\Java\IntroductionApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Dropbox\My-Dir\Java\IntroductionApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c6bfd4f71af9a9ad591790e85454b2d6909b4e3e\classes.dex" />
+    </item>
+
+</items>

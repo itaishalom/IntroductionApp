@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IntroductionApp</string>
+    <string name="toolBar_1">First icon on toolbar</string>
+    <string name="toolBar_2">Second icon on toolbar</string>
+    <string name="tutorial_end">Last page, now press Got it</string>
+    <string name="hello">Hello,This is the first page!</string>
+    <string name="understood_tutorial">Got it!</string>
+    <string name="first_image">This is the first image blinking</string>
+    <string name="second_image">This is the second image</string>
+</resources>
